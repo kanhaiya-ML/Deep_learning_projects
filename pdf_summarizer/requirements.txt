@@ -1,0 +1,4 @@
+transformers
+PyPDF2
+streamlit
+torch
